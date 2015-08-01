@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # UIkit
 
 UIkit is a lightweight and modular front-end framework for developing fast and powerful web interfaces.
@@ -84,3 +85,7 @@ Latest ✔ | Latest ✔ | 9+ ✔ | 7.1+ ✔ | Latest ✔ |
 ## Copyright and License
 
 Copyright [YOOtheme](http://www.yootheme.com) GmbH under the [MIT license](LICENSE.md).
+=======
+# Spammunication
+YRS 2015 Space app hack
+>>>>>>> 5d110eb5f450cd497b0e274fae456097991b6103
